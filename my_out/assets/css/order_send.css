@@ -1,0 +1,138 @@
+.common-blue{
+    color:#4f9fcf;
+}
+.order_status{
+    line-height: 40px;
+    background:#48c6d1;
+    padding: 0 10px;
+    color:#fff;
+    margin-bottom: 10px;
+}
+.backmargin{
+    margin-top: 5px;
+    height: 30px;
+    line-height: 16px !important;
+}
+.border_blue{
+    border: 1px solid #48c6d1;
+    padding: 26px;
+    margin-bottom: 10px;
+}
+.test{
+    width: 300px;
+    height: 300px;
+    background: red;
+}
+.clearmargin{
+    margin: 0;
+}
+.order_userInfo{
+    margin-top: 20px;
+    background: #48c6d1;
+    line-height: 40px;
+    color:#fff;
+}
+.order_note{
+    margin-top: 20px;
+}
+.order_orderinfo{
+    margin-top: 15px;
+}
+.order_orderinfo>div{
+    line-height: 25px;
+}
+.info-margin{
+    margin-right: 30px;
+}
+.send_info{
+    margin-bottom: 10px;
+}
+.fontbold{
+    font-weight: bold;
+}
+.font-light{
+    font-size: 12px;
+}
+.comment_margin{
+    margin-bottom: 30px;
+}
+.delivery_pro{
+    margin-left: 15px;
+    border-left: 5px dotted #48c6d1;
+    padding-left: 20px;
+    margin-top: 23px;
+}
+.comment_nomargin{
+    margin-bottom: 0;
+}
+.comment{
+    line-height: 40px;
+    margin-top: 10px;
+}
+.comment_inner{
+    background: #48c6d1;
+    /* margin-top:20px;  */
+    color:#fff;
+    line-height: 20px;
+    padding: 15px;
+    border-radius: 5px !important;
+}
+.goback{
+    text-align:center;
+    margin-top: 20px;
+}
+.goback .btn{
+    width: 80px;
+}
+.font-max{
+    font-size: 30px;
+}
+.index_po{
+    position: absolute;
+    top:10px;
+    right: 20px;
+    font-size: 30px;
+    font-weight: bold;
+    color:#a8a4a4;
+}
+.order_info{
+    position: relative;
+}
+.close_text{
+    text-decoration: underline;
+    cursor: pointer;
+    color:#2329e2;
+}
+.order_status .alert{
+    padding: 0;
+    text-align: center;
+}
+.close_alert{
+    float: right;
+    margin-right: 10px;
+    margin-top:11px;
+    cursor: pointer;
+}
+.delivery{
+    height: 80px;
+    background: #48c6d1;
+    padding: 26px;
+}
+.delivery .form-control{
+    height: 24px;
+    padding: 0 12px;
+    border-color: #ddd;
+}
+.order_type{
+    color:#fff;
+}
+.order_num{
+    color:#fff;
+}
+.form-marginl{
+    margin-left: 30px;
+}
+.send_btn{
+    position: relative;
+    top: -4px;
+}
